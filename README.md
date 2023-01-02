@@ -10,7 +10,8 @@ Projedo contruído para desenvolvimento pessoal.
 - JavaScript
 - Git e Github
 
-## https://joaogabriel-dev.github.io/league-of-legends-project/
+## Projeto 
+https://joaogabriel-dev.github.io/league-of-legends-project/
 
 
 ## Contato 
