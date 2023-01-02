@@ -1,19 +1,18 @@
-# Valorant 
+# League of Legends - Interface Project 
 
-> Trilha Explorer 
-Projedo contruído para desenvolvimento pessoal. 
+> Personal development
 
-## Tecnologias 
+## Technologies
 
 - HTML 
 - CSS
 - JavaScript
 - Git e Github
 
-## Projeto 
+## Project
 https://joaogabriel-dev.github.io/league-of-legends-project/
 
 
-## Contato 
+## Contact
 
 https://www.linkedin.com/in/joaogabriel-dev/
