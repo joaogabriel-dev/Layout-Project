@@ -10,7 +10,7 @@
 - Git e Github
 
 ## Project
-https://joaogabriel-dev.github.io/league-of-legends-project/
+https://joaogabriel-dev.github.io/Layout-Project/
 
 
 ## Contact
